@@ -1,9 +1,9 @@
 # 🧩 Jell's TFD Njector
 
 [![Windows](https://img.shields.io/badge/OS-Windows-blue)](https://www.microsoft.com)  
-[![Release](https://img.shields.io/github/v/release/YourUsername/Jells-TFD-Njector?color=orange)](https://github.com/YourUsername/Jells-TFD-Njector/releases/latest)  
-[![Downloads](https://img.shields.io/github/downloads/YourUsername/Jells-TFD-Njector/latest/total?color=green)](https://github.com/YourUsername/Jells-TFD-Njector/releases/latest)  
-[![Stars](https://img.shields.io/github/stars/YourUsername/Jells-TFD-Njector?color=yellow)](https://github.com/YourUsername/Jells-TFD-Njector/stargazers)
+[![Release](https://img.shields.io/github/v/release/jellowrld/tfdnjector?color=orange)](https://github.com/jellowrld/tfdnjector/releases/latest)  
+[![Downloads](https://img.shields.io/github/downloads/jellowrld/tfdnjector/latest/total?color=green)](https://github.com/jellowrld/tfdnjector/releases/latest)  
+[![Stars](https://img.shields.io/github/stars/jellowrld/tfdnjector?color=yellow)](https://github.com/jellowrld/tfdnjector/stargazers)
 
 A Windows GUI tool for **The First Descendant** that automatically detects the game folder, cleans logs, optionally deletes CFG files, and injects a DLL — all in a **single executable**.  
 
@@ -22,7 +22,10 @@ A Windows GUI tool for **The First Descendant** that automatically detects the g
 
 ## 📷 Screenshot
 
-![Injector GUI](https://via.placeholder.com/580x325.png?text=Jell%27s+TFD+Njector)  
+<p align="center">
+  <img src="https://github.com/jellowrld/tfdnjector/raw/main/njectorss.png" alt="Injector GUI" width="600"/>
+</p>
+
 *GUI showing console, DLL browse, Delete CFG checkbox, and Launch button.*
 
 ---
@@ -31,7 +34,7 @@ A Windows GUI tool for **The First Descendant** that automatically detects the g
 
 Get the latest release here:  
 
-[Download Jell's TFD Njector.exe](https://github.com/YourUsername/Jells-TFD-Njector/releases/latest)  
+[**⬇ Download Jell's TFD Njector.exe**](https://github.com/jellowrld/tfdnjector/releases/download/1.0/TFDNjector.exe)  
 
 ---
 
