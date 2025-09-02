@@ -23,7 +23,7 @@ A Windows GUI tool for **The First Descendant** that automatically detects the g
 ## 📷 Screenshot
 
 <p align="center">
-  <img src="https://github.com/jellowrld/tfdnjector/raw/main/njectorss.png" alt="Injector GUI" width="600"/>
+  <img src="https://github.com/jellowrld/tfdnjector/raw/main/njectors.png" alt="Injector GUI" width="600"/>
 </p>
 
 *GUI showing console, DLL browse, Delete CFG checkbox, and Launch button.*
