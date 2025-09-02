@@ -34,7 +34,7 @@ A Windows GUI tool for **The First Descendant** that automatically detects the g
 
 Get the latest release here:  
 
-[**⬇ Download Jell's TFD Njector.exe**]((https://github.com/jellowrld/tfdnjector/releases/download/1.1/TFD.Njector.exe))  
+[**⬇ Download Jell's TFD Njector.exe**](https://github.com/jellowrld/tfdnjector/releases/download/1.1/TFD.Njector.exe)
 
 ---
 
