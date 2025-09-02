@@ -15,7 +15,7 @@ A Windows GUI tool for **The First Descendant** that automatically detects the g
 - 🧹 **Pre-launch Cleanup:** Clears logs, crashes, webcache, and pipeline caches.  
 - 🗑️ **Optional CFG Deletion:** Delete `CFG.ini` before launch with a checkbox.  
 - 💉 **DLL Injection:** Inject a user-selected DLL into the game process.  
-- 🔄 **Auto-Inject:** Monitors for the game process and injects DLL when detected.  
+- 🔄 **Auto-Inject:** Monitors for the game process and injects DLL when detected. (Updated injection function so if game crashes there is no need to restart injector.) 
 - 🖤 **GUI Interface:** Dark-themed, intuitive interface.  
 
 ---
@@ -26,7 +26,7 @@ A Windows GUI tool for **The First Descendant** that automatically detects the g
   <img src="https://github.com/jellowrld/tfdnjector/raw/main/njectors.png" alt="Injector GUI" width="600"/>
 </p>
 
-*GUI showing console, DLL browse, Delete CFG checkbox, and Launch button.*
+*GUI showing console, DLL browse, Delete CFG checkbox, Default Settings, and Launch button.*
 
 ---
 
