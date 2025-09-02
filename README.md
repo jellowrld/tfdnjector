@@ -43,9 +43,10 @@ Get the latest release here:
 1. Download the **`.exe`**.  
 2. Launch the injector.  
 3. Browse and select your DLL file.  
-4. Check **🗑️ Delete CFG** if you want the CFG file removed before launch.  
-5. Click **🚀 Launch TFD** — logs will be cleaned and the DLL injected automatically.  
-6. Monitor the console for status updates.  
+4. Check **🗑️ Delete CFG** if you want the CFG file removed before launch.
+5. Check **📝 Default Settings (Run this Once)** To apply default optimal graphic settings for Flectorite.
+6. Click **🚀 Launch TFD** — logs will be cleaned and the DLL injected automatically.  
+7. Monitor the console for status updates.  
 
 ---
 
