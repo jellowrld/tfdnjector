@@ -40,7 +40,7 @@ A Windows GUI tool for **The First Descendant** that automatically detects the g
   <img src="https://github.com/jellowrld/tfdnjector/raw/main/njector.png" alt="Injector GUI" width="600"/>
 </p>
 
-*GUI showing console, DLL browse, Delete CFG checkbox, Default Settings,Blac Cipher Delay Slider and Launch button.*
+*GUI showing console, DLL browse, Delete CFG checkbox, Default Settings, Black Cipher Delay Slider and Launch button.*
 
 ---
 
