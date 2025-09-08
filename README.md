@@ -23,10 +23,10 @@ A Windows GUI tool for **The First Descendant** that automatically detects the g
 ## 📷 Screenshot
 
 <p align="center">
-  <img src="https://github.com/jellowrld/tfdnjector/raw/main/njectors.png" alt="Injector GUI" width="600"/>
+  <img src="https://github.com/jellowrld/tfdnjector/raw/main/njector.png" alt="Injector GUI" width="600"/>
 </p>
 
-*GUI showing console, DLL browse, Delete CFG checkbox, Default Settings, and Launch button.*
+*GUI showing console, DLL browse, Delete CFG checkbox, Default Settings,Blac Cipher Delay Slider and Launch button.*
 
 ---
 
@@ -34,7 +34,7 @@ A Windows GUI tool for **The First Descendant** that automatically detects the g
 
 Get the latest release here:  
 
-[**⬇ Download Jell's TFD Njector.exe**](https://github.com/jellowrld/tfdnjector/releases/download/1.1/TFD.Njector.exe)
+[**⬇ Download Jell's TFD Njector.exe**](https://github.com/jellowrld/tfdnjector/releases/download/1.2/TFD.Njector.exe)
 
 ---
 
