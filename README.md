@@ -9,14 +9,28 @@ A Windows GUI tool for **The First Descendant** that automatically detects the g
 
 ---
 
-## ✨ Features
+## Features
 
-- 🕹️ **Automatic Game Detection:** Finds your Steam installation automatically.  
-- 🧹 **Pre-launch Cleanup:** Clears logs, crashes, webcache, and pipeline caches.  
-- 🗑️ **Optional CFG Deletion:** Delete `CFG.ini` before launch with a checkbox.  
-- 💉 **DLL Injection:** Inject a user-selected DLL into the game process.  
-- 🔄 **Auto-Inject:** Monitors for the game process and injects DLL when detected. (Updated injection function so if game crashes there is no need to restart injector.) 
-- 🖤 **GUI Interface:** Dark-themed, intuitive interface.  
+- 🕹️ **Automatic Game Detection**  
+  Finds your Steam installation and locates the game folder automatically.  
+
+- 🧹 **Pre-launch Cleanup**  
+  Clears logs, crash reports, webcache, and pipeline caches before launch.  
+
+- 🗑️ **Optional CFG Deletion**  
+  Delete `CFG.ini` prior to launch using a simple checkbox.  
+
+- ⏱️ **BlackCipher Delay Slider**  
+  Adjust `BlackCipherDelay` for instant injection (values from **2500** to **60000 ms**) directly in the GUI.  
+
+- 💉 **DLL Injection**  
+  Inject a user-selected DLL into the game process. Compatible with Athruns, Tivmo, and Blizzies DLLs.  
+
+- 🔄 **Auto-Inject**  
+  Monitors the game process and injects the DLL automatically. If the game crashes, the injector resets automatically—no need to restart the tool.  
+
+- 🖤 **Dark-Themed GUI**  
+  Clean, intuitive interface with all options easily accessible. 
 
 ---
 
