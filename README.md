@@ -32,8 +32,8 @@ A Windows GUI tool for **The First Descendant** that automatically detects the g
 - 🖤 **Dark-Themed GUI**  
   Clean, intuitive interface with all options easily accessible.
 
-- 🛡️ EAC Bypass (One and Done)
-Retrieves old EAC files from my github repo and replaces new ones to bypass EAC.
+- 🛡️ **EAC Bypass (One and Done)**
+  Retrieves old EAC files from my github repo and replaces new ones to bypass EAC.
 
 ---
 
