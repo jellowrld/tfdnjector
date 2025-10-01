@@ -1,0 +1,18 @@
+1. Install PyInstaller
+
+Open a terminal (Command Prompt or PowerShell) and run:
+
+pip install pyinstaller
+
+2. Navigate to Your Script’s Folder
+
+Example:
+
+cd C:\path\to\your\script
+
+
+3. Create an Executable
+
+Run:
+
+pyinstaller --onefile --noconsole yourscript.py
