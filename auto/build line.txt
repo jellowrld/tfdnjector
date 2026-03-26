@@ -1,0 +1,1 @@
+pyinstaller --onefile --collect-all rich --hidden-import=PyQt5.QtWidgets --hidden-import=PyQt5.QtCore --hidden-import=PyQt5.QtGui --hidden-import=win32gui --hidden-import=win32process --hidden-import=psutil --hidden-import=mss --hidden-import=cv2 --hidden-import=keyboard --name "Jells Auto" new.py
